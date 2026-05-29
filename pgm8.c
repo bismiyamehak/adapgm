@@ -1,5 +1,6 @@
 #include<stdio.h> void subset(int,int,int);
-int x[10],w[10],d,count=0; void main()
+int x[10],w[10],d,count=0; 
+void main()
 {
 int i,n,sum=0;
 printf("Enter the no. of elements: "); scanf("%d",&n);

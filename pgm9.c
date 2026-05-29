@@ -1,4 +1,6 @@
-#include <stdio.h> #include <stdlib.h> #include <time.h>
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <time.h>
 // Function to perform selection sort void selectionSort(int arr[], int n) {
 int i, j, minIndex, temp; for (i = 0; i < n - 1; i++) {
 minIndex = i;
